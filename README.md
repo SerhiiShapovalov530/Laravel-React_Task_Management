@@ -30,7 +30,7 @@ Here, User can register and login and can manage his projects and every task ins
 
 ![alt text](https://i.ibb.co/V3zXD14/Days-Default.png "Laravel & React Task Management")
 
-## Demo View
+## Website View
 
 ### Home Page
 
